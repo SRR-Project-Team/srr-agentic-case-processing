@@ -1,5 +1,9 @@
 # SRR Agentic Case Processing System
 
+> **中文说明**
+>
+> 本仓库只是为了公开展示。一些核心且详细的技术细节没有放在这里面，如果有兴趣的话可以联系我。
+
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![Tests](https://img.shields.io/badge/tests-unittest-green)
 ![License](https://img.shields.io/badge/license-MIT-black)
