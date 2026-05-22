@@ -1,0 +1,14 @@
+Date Received: 17-Jan-2026
+Source: ICC
+Case Number: DEMO-2026-0001
+Type: Urgent
+Caller: Demo Resident
+Contact: demo.resident@example.invalid
+Slope Number: 1ABC-001
+Location: Sample Hillside Path near Demo Community Centre
+Nature of Request: Tree Trimming/Pruning
+Subject Matter: fallen branch near pedestrian path
+
+The reported issue describes a branch that may fall near a public walkway.
+The case should be routed for tree-related review and an interim reply should be prepared.
+

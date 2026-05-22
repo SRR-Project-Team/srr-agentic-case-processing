@@ -1,0 +1,4 @@
+# Core demo has no external runtime dependency.
+# Install API extras only if you want to run the FastAPI wrapper:
+#   pip install -e ".[api,dev]"
+

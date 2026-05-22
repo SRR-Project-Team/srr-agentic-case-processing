@@ -1,0 +1,9 @@
+Date Received: 2026-01-17
+Source: ICC
+Case Number: DEMO-2026-0002
+Caller: Synthetic User
+Contact: synthetic.user@example.invalid
+Location: Demo Road near Example Garden
+Nature of Request: Hazardous tree
+Subject Matter: branch may fall
+
